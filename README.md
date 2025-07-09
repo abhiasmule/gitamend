@@ -1,0 +1,2 @@
+# gitamend
+practice git amend
